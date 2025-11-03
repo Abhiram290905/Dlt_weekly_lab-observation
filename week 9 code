@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+
+# We need to store the loss values during training.
+# Let's go back and modify the training loop to store losses.
+
+# (Assuming you would re-run the training cell after this modification)
+
+# For now, let's create some dummy loss data for visualization purposes
+# In a real scenario, replace this with the actual list of training losses
+
+…plt.show()
